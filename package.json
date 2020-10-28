@@ -20,7 +20,7 @@
   "author": "chunqiuyiyu <chunqiuyiyu@outlook.com> (https://www.chunqiuyiyu.com/)",
   "license": "MIT",
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^15.0.1"
   },
   "repository": {
     "type": "git",
